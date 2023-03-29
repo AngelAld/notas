@@ -65,6 +65,26 @@ El data mining establecce tipos de datos según lo que representan y la forma en
 
 #### Aplicaciones de la minería de datos
 
+* Negocios
+    * publicidad personalizada
+* Banca y finanzas
+    * predicción de valores bursatiles
+* Compañias de seguros
+    * Detección de fraudes
+* Supermercados
+    * Analisis de cesta de compras
+    * Ubicación de productos
+* Educación
+    * Mejora del proceso de enseñanza/aprendizaje
+* Medicina
+    * Diagnostico de enfermedades
+* otras ciencias
+    * Predicción meteorologica
+    * Estudio de patrones en genes
+* Internet
+    * Análisis del comportamiento de usuarios
+    * Estudio del contenido y estructura de sitios web
+    * Detección de spam
 
 
 
