@@ -86,5 +86,5 @@ El data mining establecce tipos de datos según lo que representan y la forma en
     * Estudio del contenido y estructura de sitios web
     * Detección de spam
 
-
-
+#### Resumen 
+![](https://i.imgur.com/1HF5ECa.png)
