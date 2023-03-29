@@ -14,8 +14,8 @@
     * redes sociales
     * informes meteorologicos
     * multimedia
-* datos semiestructurados:
-    * 
+* datos semiestructurados: 
+
 ### Introducción a la Mineria de Datos
 
 #### Definición
@@ -28,18 +28,10 @@
 
 * data fishing: 
     * Analisis de grandes volumenes de datos para encontrar posibles relaciones entre datos para luego establecer hipotesis de por qué existen estas relaciones
-    * Analisis de datos sin realizar preguntas de investigación 
+    * Analisis de datos sin realizar preguntas de investigación
+    * no necesariamente datos informaticos
 * data mining: 
     * Analisis automatico de grandes volumenes de datos que permite encontrar patrones y generar predicciones
-    * 
-
-
-
-
-
-
-
-
-
-
-
+    * boom debido al internet
+    * capacidad de computo y almacenamiento a costo razonable
+    * grandes volumenes de datos (negocio / cientifico)
