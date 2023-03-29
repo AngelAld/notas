@@ -35,3 +35,24 @@
     * boom debido al internet
     * capacidad de computo y almacenamiento a costo razonable
     * grandes volumenes de datos (negocio / cientifico)
+
+#### Tipos de datos 
+
+El data mining establecce tipos de datos según lo que representan y la forma en que serán tratados a partir de estructurados
+
+* Categorical (Categoricos)
+    * Nominales (No tiene orden especifico) 
+    * Ordinales (primero, segundo ...)
+* Numerical (Numericos)
+    * Discrete (Discretos)
+    * Continuous (Continuos)
+* No convencionales
+    * series temporales
+    * documentos
+    * datos espaciales
+    * multimedia
+    * datos proecedentes de la web 
+
+#### Relación con otras areas
+
+![](https://i.imgur.com/ljwDTqd.png)
