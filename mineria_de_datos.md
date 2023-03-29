@@ -56,3 +56,15 @@ El data mining establecce tipos de datos según lo que representan y la forma en
 #### Relación con otras areas
 
 ![](https://i.imgur.com/ljwDTqd.png)
+
+#### Utilidad de la minería de datos
+
+* Agrupamiento (por salario, num Hijos, gasto estimado)
+* Clasificación (Por nivel de riesgo alto, medio, bajo)
+* Asociación (Productos de la canasta basica)
+
+#### Aplicaciones de la minería de datos
+
+
+
+
