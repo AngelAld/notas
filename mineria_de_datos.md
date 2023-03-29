@@ -88,3 +88,13 @@ El data mining establecce tipos de datos según lo que representan y la forma en
 
 #### Resumen 
 ![](https://i.imgur.com/1HF5ECa.png)
+
+#### Tarea 
+
+Investiga sobre las tendencias de la minería de datos en la actualidad y hacia el futuro, luego elabora un mapa mental en donde se plasme lo investigado.
+
+Puedes diseñar el mapa metal con alguna herramienta digital para elaborar diagramas en línea, exportas el archivo como imagen y lo envías como archivo PDF.
+
+La presente tarea se considera como parte de la evaluación formativa de la asignatura.
+
+El plazo para entregar la  presente tarea es hasta el domingo 02 abril  11:59pm.
