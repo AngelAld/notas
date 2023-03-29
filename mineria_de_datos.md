@@ -27,9 +27,11 @@
 #### Historia
 
 * data fishing: 
-    * *Analisis de grandes volumenes de datos para encontrar posibles relaciones entre datos para luego establecer hipotesis de por qué existen estas relaciones
+    * Analisis de grandes volumenes de datos para encontrar posibles relaciones entre datos para luego establecer hipotesis de por qué existen estas relaciones
     * Analisis de datos sin realizar preguntas de investigación 
-
+* data mining: 
+    * Analisis automatico de grandes volumenes de datos que permite encontrar patrones y generar predicciones
+    * 
 
 
 
