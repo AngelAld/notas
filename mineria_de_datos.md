@@ -13,7 +13,8 @@
 * datos no estructurados:
     * redes sociales
     * informes meteorologicos
-    * audios
+    * multimedia
+
 
 
 
