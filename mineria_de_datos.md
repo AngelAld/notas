@@ -98,3 +98,9 @@ Puedes diseñar el mapa metal con alguna herramienta digital para elaborar diagr
 La presente tarea se considera como parte de la evaluación formativa de la asignatura.
 
 El plazo para entregar la  presente tarea es hasta el domingo 02 abril  11:59pm.
+
+## Clase 2  abril 2, 2023
+
+## Clase 3  abril 11, 2023
+
+
