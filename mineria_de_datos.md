@@ -118,7 +118,7 @@ Es la extracción **automatizada** de conocimiento a partir de grandes volúmene
 * interpretación y evaluación de modelos
 
 ![](https://i.imgur.com/YYGRvYI.png)
-
+------------------------------
 ![](https://i.imgur.com/BuO99YC.png)
 
 #### Recopilación de datos
