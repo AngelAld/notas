@@ -5,4 +5,4 @@
 |  Curso      |    Descripción       |
 | ------------- |-------------  |
 |    Minería de Datos    |    Y          |
-|    f2    |    Y          |
+|    Sistemas Distribuidos    |    Y          |
