@@ -118,7 +118,7 @@ Es la extracción **automatizada** de conocimiento a partir de grandes volúmene
 * interpretación y evaluación de modelos
 
 ![](https://i.imgur.com/YYGRvYI.png)
-------------------------------
+---
 ![](https://i.imgur.com/BuO99YC.png)
 
 #### Recopilación de datos
@@ -153,6 +153,36 @@ El data warehouse también se puede usar para:
 * se interpreta pe :v 
 
 ### Metodología CRISP-DM
+
+**Significado:** Cross-Industry Standard process for data mining
+**Fecha Inicio:** septiembre 1996
+
+* Objetivos
+    * Aumentar inter operabilidad 
+    * disminuir costos
+* Ventajas
+    * no-propietario
+    * independiente de aplicación, industria o herramienta
+    * Enfocado en problemas de negocio
+    * Enfocado en analisis técnico
+    * Plataforma guía
+    * Experiencia base
+    * Plantillas para análisis
+* Proceso
+    * Comprensión del problema
+    * Comprensión de los datos
+    * Preparación de los datos
+    * Modelación
+    * Evaluación de los resultados
+    * Despliegue de los resultados
+
+![](https://i.imgur.com/OBLgA18.png)
+---
+![](https://i.imgur.com/1oXjWi6.png)
+
+### Metodología SEMMA
+
+
 
 ## Clase 3  abril 11, 2023
 
