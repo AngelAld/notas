@@ -99,7 +99,41 @@ La presente tarea se considera como parte de la evaluación formativa de la asig
 
 El plazo para entregar la  presente tarea es hasta el domingo 02 abril  11:59pm.
 
-## Clase 2  abril 2, 2023
+## Clase 2  abril 4, 2023
+
+### Proceso KDD (knowledge Discovery in Databases)
+
+Es la extracción **automatizada** de conocimiento a partir de grandes volúmenes de datos. 
+
+**El conocimiento es:**
+* importante
+* implicito
+* nuevo
+* útil
+
+**Las fases del KDD son:**
+* Recopilación de datos
+* Selección, limpieza y transformación de datos
+* data Mining
+* interpretación y evaluación de modelos
+
+![](https://i.imgur.com/nzMQeI6.png)
+
+![](https://i.imgur.com/WJRyc20.png)
+
+#### Recopilación de datos
+
+![](https://i.imgur.com/hrJelQw.png)
+
+El data warehouse también se puede usar para:
+* generar reportes 
+* sistemas de apoyo a la toma de decisiones 
+* OLAP
+
+#### Selección, limpieza y transformación de datos:
+
+*  
+
 
 ## Clase 3  abril 11, 2023
 
