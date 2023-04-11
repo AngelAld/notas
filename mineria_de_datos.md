@@ -117,13 +117,13 @@ Es la extracción **automatizada** de conocimiento a partir de grandes volúmene
 * data Mining
 * interpretación y evaluación de modelos
 
-![](https://i.imgur.com/nzMQeI6.png)
+![](https://i.imgur.com/YYGRvYI.png)
 
-![](https://i.imgur.com/WJRyc20.png)
+![](https://i.imgur.com/BuO99YC.png)
 
 #### Recopilación de datos
 
-![](https://i.imgur.com/hrJelQw.png)
+![](https://i.imgur.com/fWnDJ05.png)
 
 El data warehouse también se puede usar para:
 * generar reportes 
