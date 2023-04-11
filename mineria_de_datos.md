@@ -131,9 +131,28 @@ El data warehouse también se puede usar para:
 * OLAP
 
 #### Selección, limpieza y transformación de datos:
+![](https://i.imgur.com/ciBhCw8.png)
 
-*  
+* se da formato
+* se reparan datos
+* se seleccionan datos
 
+#### Data Mining
+
+![](https://i.imgur.com/14OceRt.png)
+
+* Modelos predictivos
+    * clasificación
+    * regresión
+* Modelos descriptivos
+    * clústering
+    * asociación
+
+#### Interpretación y evaluación de modelos
+
+* se interpreta pe :v 
+
+### Metodología CRISP-DM
 
 ## Clase 3  abril 11, 2023
 
