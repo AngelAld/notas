@@ -186,4 +186,6 @@ El data warehouse también se puede usar para:
 
 ## Clase 3  abril 11, 2023
 
-
+---
+![](https://i.imgur.com/R3IQYLF.png)
+---
