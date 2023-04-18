@@ -175,10 +175,11 @@ El data warehouse también se puede usar para:
     * Modelación
     * Evaluación de los resultados
     * Despliegue de los resultados
-
+---
 ![](https://i.imgur.com/OBLgA18.png)
 ---
 ![](https://i.imgur.com/1oXjWi6.png)
+---
 
 ### Metodología SEMMA
 
@@ -189,3 +190,35 @@ El data warehouse también se puede usar para:
 ---
 ![](https://i.imgur.com/R3IQYLF.png)
 ---
+
+#### Comprensión del Problema 
+
+  * Variables independientes
+    * el problema 
+    * nombres:
+      * features
+      * drivers 
+      * covariables 
+  * Variables dependientes 
+    * el negocio
+    * nombres: 
+      * label
+      * target
+      * Objetivo de estudio 
+  * Conjuntos de Datos:
+    * Total
+    * contiene las Variables dependientes e independientes
+    
+    Esquema de 4 niveles de CRISP-DM 
+
+    ---
+    ![](https://i.imgur.com/WrCVTZv.png)
+    ---
+    ![](https://i.imgur.com/JLST2U1.png)
+    ---
+
+
+
+
+#### Comprensión de Datos
+
