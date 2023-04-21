@@ -13,7 +13,7 @@ Avance 3ra parte enciclica
 ¿Ser racional con alma, voluntad?
 
 Sustancia individual de naturaleza racional.  
-.                           **Boecio, siglo V**
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**Boecio, siglo V**
 
 #### Etimología 
 
@@ -71,7 +71,9 @@ La libertad nos determina
 
 * Por ser digno soy poseedor de derechos. 
 
+#### Explicación Kantiana
 
+* La humanidad misma trae dignidad, por lo que el hombre no puede ser tratado por nadie (ni siquier por si mismo) como un medio, sino como un fin. 
 
 
 
