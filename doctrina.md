@@ -38,7 +38,13 @@ Sustancia individual de naturaleza racional.
 
 * Persona es algo que se es. **NO** es un **titulo adquirido**. Es persona desde la **concepción** hasta la **muerte**. 
 
-*  
+* La persona posee su propio ser. Un ser comunicado por Dios en un acto libre. 
+
+#### Decadencia en la Filosofía 
+
+* Según Descartes, el cuerpo no era importante, solo el espiritu.
+* Según Hegel, el humano es un ser puramente espiritual. 
+* Marx dice que el humano es un ser para el trabajo "Homo faber", reduciendo a la persona a ser productivo
 
 
 
