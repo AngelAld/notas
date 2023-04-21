@@ -46,6 +46,10 @@ Sustancia individual de naturaleza racional.
 * Según Hegel, el humano es un ser puramente espiritual. 
 * Marx dice que el humano es un ser para el trabajo "Homo faber", reduciendo a la persona a ser productivo
 
+#### El personalismo
+
+* **Mounier:** La persona se hace por medio del ejercicio de su libertad. Metodo fenomenologico.  
+
 
 
 
