@@ -6,4 +6,5 @@
 | ------------- |-------------  |
 |    Minería de Datos    |    Y          |
 |    Sistemas Distribuidos    |    Y          |
-| Investigación en la Ingeniería | Y | 
+| Investigación en la Ingeniería | Y |
+| Administración de redes de Datos | Y | 

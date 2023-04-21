@@ -218,7 +218,21 @@ El data warehouse también se puede usar para:
     ---
 
 
+#### Preparación de los datos: 
+
 
 
 #### Comprensión de Datos
+
+
+
+
+#### Preparación de los datos: 
+
+
+
+
+
+
+
 
