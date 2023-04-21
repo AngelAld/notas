@@ -90,4 +90,28 @@ La libertad nos determina
 
 * Dios es el Fundamento de la dignidad de la persona 
 
-* Los cristianos deben defender la dignidad de la persona en su conjunto, no parcialmente 
+* Los cristianos deben defender la dignidad de la persona en su conjunto, no parcialmente
+
+**TAREA:** 
+**5 ideas principales presentes en la el video del doctor - prox semana (04/27/2023)**
+
+### Pricipios y Valores de la Doctrina Social de la Iglesia
+
+* Concilio Vaticano II 
+* Documentos Pontificios
+  * Enciclica
+  * Exhortación Apostolica
+  * Cartas Apostolicas 
+* Documentos de los Obispos
+
+Compendio de la Doctrina Social de la Iglesia
+
+
+Principios y Valores
+* La dignidad de la persona
+* La persona es sujeto de derechos y deberes
+* Es necesario hacer comunidad
+* el bien común
+* La justicia debe ser igual para todos
+* Caridad y solidaridad
+
