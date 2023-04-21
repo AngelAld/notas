@@ -12,8 +12,8 @@ Avance 3ra parte enciclica
 
 ¿Ser racional con alma, voluntad?
 
-Sustancia individual de naturaleza racional 
-                            Boecio, siglo V
+Sustancia individual de naturaleza racional. 
+                            **Boecio, siglo V**
 
 #### Etimología 
 
@@ -38,7 +38,7 @@ Sustancia individual de naturaleza racional
 
 * Persona es algo que se es. **NO** es un **titulo adquirido**. Es persona desde la **concepción** hasta la **muerte**. 
 
-* 
+*  
 
 
 
