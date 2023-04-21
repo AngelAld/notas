@@ -1,7 +1,7 @@
 # Doctrina Social de la Iglesia 
 **Docente Elki Segura Gonzales**
 
-1.- [Clase 2] (#clase-2-04212023)
+1.- [Clase 2] (# clase-2-04212023)
 
 
 
