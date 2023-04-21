@@ -13,7 +13,7 @@ Avance 3ra parte enciclica
 ¿Ser racional con alma, voluntad?
 
 Sustancia individual de naturaleza racional.  
-                            **Boecio, siglo V**
+.                           **Boecio, siglo V**
 
 #### Etimología 
 
@@ -53,7 +53,9 @@ Sustancia individual de naturaleza racional.
 * **Plano Ontologico:** Sujeto que no cambia a pesar de los años, sustrato que subsiste al tiempo
 * **Plano dinamico - existencial:** El ser humano toma decisiones y se determina a través de ellas. El ser humano también es lo que puede llegar a ser.
 
-
+´´´
+El ser humano tiene aspectos que ya están determinados, el sexo. Sin embargo, también tiene aspectos que no están determinados, la carrera, la pareja. La libertad nos determina
+´´´
 
 
 
