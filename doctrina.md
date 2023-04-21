@@ -93,8 +93,8 @@ La libertad nos determina
 * Los cristianos deben defender la dignidad de la persona en su conjunto, no parcialmente
 
 **TAREA:** 
-**5 ideas principales presentes en la el video del doctor - prox semana (04/27/2023)**
-
+**5 ideas principales presentes en la el video del doctor - prox semana (04/28/2023)**
+https://www.youtube.com/watch?v=7cAVXzMeoks&ab_channel=Tom%C3%A1sMelendoGranados 
 ### Pricipios y Valores de la Doctrina Social de la Iglesia
 
 * Concilio Vaticano II 
@@ -114,4 +114,13 @@ Principios y Valores
 * el bien común
 * La justicia debe ser igual para todos
 * Caridad y solidaridad
+
+
+
+--- 
+
+* Destino universal de los bienes (propiedad privada)
+* Bien común
+
+
 
