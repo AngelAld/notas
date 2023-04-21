@@ -13,7 +13,6 @@ Avance 3ra parte enciclica
 ¿Ser racional con alma, voluntad?
 
 Sustancia individual de naturaleza racional.  
-
                             **Boecio, siglo V**
 
 #### Etimología 
