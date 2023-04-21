@@ -1,7 +1,7 @@
 # Doctrina Social de la Iglesia 
 **Docente Elki Segura Gonzales**
 
-[Clase 2] (## Clase 2 04/21/2023)
+1.- [Clase 2] (## Clase-2-04/21/2023)
 
 
 
