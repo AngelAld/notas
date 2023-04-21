@@ -43,7 +43,9 @@ Sustancia individual de naturaleza racional.
 #### Decadencia en la Filosofía 
 
 * Según Descartes, el cuerpo no era importante, solo el espiritu.
+
 * Según Hegel, el humano es un ser puramente espiritual. 
+
 * Marx dice que el humano es un ser para el trabajo "Homo faber", reduciendo a la persona a ser productivo
 
 #### El personalismo
@@ -51,14 +53,23 @@ Sustancia individual de naturaleza racional.
 * **Mounier:** La persona se hace por medio del ejercicio de su libertad. Metodo fenomenologico.
 
 * **Plano Ontologico:** Sujeto que no cambia a pesar de los años, sustrato que subsiste al tiempo
+
 * **Plano dinamico - existencial:** El ser humano toma decisiones y se determina a través de ellas. El ser humano también es lo que puede llegar a ser.
 
 ```
-El ser humano tiene aspectos que ya están determinados, el sexo. Sin embargo, también tiene aspectos que no están determinados, la carrera, la pareja. La libertad nos determina
+El ser humano tiene aspectos que ya están determinados, el sexo. 
+Sin embargo, también tiene aspectos que no están determinados, la carrera, la pareja. 
+La libertad nos determina
 ```
 
 
-### Dignidad
+### Dignidad Personal
+
+* **Dignidad:** Excelencia, No hay nada por encima. Eminente, (Dignatario -> presidente, autoridad más alta)
+
+* **Innata:** Tenemos dignidad por ser personas.
+
+* Por ser digno soy poseedor de derechos. 
 
 
 
