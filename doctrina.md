@@ -13,7 +13,7 @@ Avance 3ra parte enciclica
 ¿Ser racional con alma, voluntad?
 
 Sustancia individual de naturaleza racional.  
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**Boecio, siglo V**
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**Boecio, siglo V**
 
 #### Etimología 
 
@@ -73,10 +73,18 @@ La libertad nos determina
 
 #### Explicación Kantiana
 
-* La humanidad misma trae dignidad, por lo que el hombre no puede ser tratado por nadie (ni siquier por si mismo) como un medio, sino como un fin. 
+* La humanidad misma trae dignidad, por lo que el hombre no puede ser tratado por nadie (ni siquiera por si mismo) como un medio, sino como un fin. 
 
+#### Fundamentación Ontológica y Teocéntrica (Esto es prácticamente el resumen)
 
+* La persona es digna por ser humana 
 
+* No es algo que se tiene que ganar (ser persona)
 
+* No existe persona **potencial**, no se **llega** a ser persona. 
+
+* **Para la tradición cristiana el individuo humano es Imagen y semejanza de Dios** 
+
+* Dios es el Fundamento de la dignidad de la persona 
 
 
