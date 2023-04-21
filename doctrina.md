@@ -1,8 +1,7 @@
 # Doctrina Social de la Iglesia 
 **Docente Elki Segura Gonzales**
 
-1.- [Clase 2] (# clase-2-04212023)
-
+1.- [Clase 2 04/21/2023](#clase-2-04212023)
 
 
 ## Clase 2 04/21/2023
@@ -91,4 +90,4 @@ La libertad nos determina
 
 * Dios es el Fundamento de la dignidad de la persona 
 
-
+* Los cristianos deben defender la dignidad de la persona en su conjunto, no parcialmente 
