@@ -217,17 +217,44 @@ El data warehouse también se puede usar para:
     ![](https://i.imgur.com/JLST2U1.png)
     ---
 
+## Clase 4 - 04/18/2023
 
-#### Preparación de los datos: 
-
-
-
-#### Comprensión de Datos
+### Comprensión de Datos
 
 
 
 
-#### Preparación de los datos: 
+### Preparación de los datos: 
+
+
+## Clase 5 - 04/25/2023
+
+### Modelado 
+
+**tareas generales** 
+  * seleccionar técnica de modelado 
+    * algoritmos a ser implementados
+    * **Metodos**
+      * Supervisados
+        * Tiene variable dependiente (target, de estudio, salida)
+          * si compra 
+          * no compra 
+        * Tiene variables independientes (features, drivers, entrada)
+         * genero
+         * rango de edad 
+         * ingresos 
+         * estado civil 
+      * No supervisados
+  * generar el plan  de pruebas
+  * construir el modelo
+  * evaluar el modelo
+    * verificar la precisión del modelo
+ 
+
+
+
+
+ 
 
 
 
