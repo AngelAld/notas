@@ -233,7 +233,13 @@ El data warehouse también se puede usar para:
 
 **tareas generales** 
   * seleccionar técnica de modelado 
-    * algoritmos a ser implementados
+    * **algoritmos**
+      * a ser implementados (de acuerdo al metodo)
+      * Ejemplos
+        * arbol de clasificación
+        * cvm 
+        * red neuronal
+        * r. lineal simple/compuesta/logistica
     * **Metodos**
       * Supervisados
         * Tiene variable dependiente (target, de estudio, salida)
@@ -245,6 +251,9 @@ El data warehouse también se puede usar para:
           * ingresos 
           * estado civil 
       * No supervisados
+        * no tiene variable dependiente
+        * **el fin no se conoce, se descubre**
+
   * generar el plan  de pruebas
   * construir el modelo
   * evaluar el modelo
