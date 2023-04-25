@@ -240,10 +240,10 @@ El data warehouse también se puede usar para:
           * si compra 
           * no compra 
         * Tiene variables independientes (features, drivers, entrada)
-         * genero
-         * rango de edad 
-         * ingresos 
-         * estado civil 
+          * genero
+          * rango de edad 
+          * ingresos 
+          * estado civil 
       * No supervisados
   * generar el plan  de pruebas
   * construir el modelo
