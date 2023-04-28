@@ -3,6 +3,7 @@
 ## Docente Elki Segura Gonzales
 
 1.- [Clase 2 04/21/2023](#clase-2-04212023)
+1.- [Clase 3 04/28/2023](#clase-3-04282023)
 
 ## Clase 2 04/21/2023
 
@@ -156,5 +157,11 @@ poderes facticos influyen en el gobierno, la derecha ha logrado imponer sus inte
   * Sentido civico debil en el Perú
   * Formar partido politico
   * **Marchas pacificas**, el derecho a protestar
-* Soldaridad
+* Solidaridad
   * Todos tenemos que colaborar en el bien común
+  * pagar nuestros impuestos
+
+### Valores
+
+* **VERDAD**
+  * veracidad en los actos de gobierno
