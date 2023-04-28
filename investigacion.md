@@ -1,6 +1,6 @@
 # Investigación en la Ingeniería
 
-## Docente: Karla Reyes Burgos**
+## Docente: Karla Reyes Burgos
 
 ### Ciencia
 
@@ -26,3 +26,17 @@
   * abierta
   * util
 * Clasificación
+  * Facticas
+    * Se basa en los hechos en lo experimental
+  * Formales
+    * Matematica, cosas que no existen en la naturaleza (numero)
+* Requerimientos
+  * Novedosa
+  * Creativa
+  * Incierta
+  * Sistematica
+  * Transferible, reproducible
+* Clases
+  * Básica
+  * Aplicada
+  
