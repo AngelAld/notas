@@ -165,3 +165,29 @@ poderes facticos influyen en el gobierno, la derecha ha logrado imponer sus inte
 
 * **VERDAD**
   * veracidad en los actos de gobierno
+  * Entendimiento entre lo dicho y la realidad
+* **LIBERTAD**
+  * libertad de prensa, pensamiento, culto
+* **JUSTICIA**
+  * Dar a cada uno lo que le corresponde
+  * poder judicial
+* **CARIDAD**
+  * Voluntariado
+
+**Video de la familia** 
+* Habla de la familia divina
+  * Se relata como una familia normal
+* Perspectiva de la Iglesia
+  * primera sociedad natural  
+  * centro de la vida social 
+  * **la familia constituye el fundamento de la sociedad** 
+  * institución divina 
+  * cada sexo tiene roles unicos y complementarios 
+  * la unión entre un hombre y una mujer 
+  * sacramento del matrimonio 
+  * ente de convivencia
+  * comunidad = muchas familias
+* comentarios del Docente
+  * en la familia se construyen los ciudadanos para la sociedad
+  * se aprende el idioma, historia, tradiciones, cultura, etc
+  * se aprende valores, moral
