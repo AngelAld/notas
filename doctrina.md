@@ -3,7 +3,10 @@
 ## Docente Elki Segura Gonzales
 
 1.- [Clase 2 04/21/2023](#clase-2-04212023)  
-1.- [Clase 3 04/28/2023](#clase-3-04282023)  
+2.- [Clase 3 04/28/2023](#clase-3-04282023)  
+3.- [Clase 4 05/12/2023](#clase-3-04282023)  
+
+
 
 ## Clase 2 04/21/2023
 
@@ -173,6 +176,9 @@ poderes facticos influyen en el gobierno, la derecha ha logrado imponer sus inte
   * poder judicial
 * **CARIDAD**
   * Voluntariado
+
+## Clase 4 05/12/2023
+
 
 **Video de la familia** 
 * Habla de la familia divina
