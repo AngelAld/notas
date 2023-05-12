@@ -204,12 +204,12 @@ poderes facticos influyen en el gobierno, la derecha ha logrado imponer sus inte
   *
 #### Matrimonio Católico 
   Requisitos:
-    * Ser varon y mujer  
-    * Ser mayor de edad  
-    * Estar bautizado, primera comunión y confirmación  
-    * Estar sano psicologicamente  
-    * Sanas sexualmente  (no impotencia sexual irreversible o frigidez sexual irreversible)
-    * Ser soltero(a)  o viudo(a)  
-    * 4 testigos
-      * 2 ceremonia de matrimonio
-      * 2 solteria  
+  * Ser varon y mujer  
+  * Ser mayor de edad  
+  * Estar bautizado, primera comunión y confirmación  
+  * Estar sano psicologicamente  
+  * Sanas sexualmente  (no impotencia sexual irreversible o frigidez sexual irreversible)
+  * Ser soltero(a)  o viudo(a)  
+  * 4 testigos
+    * 2 ceremonia de matrimonio
+    * 2 solteria  
