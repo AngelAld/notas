@@ -2,8 +2,8 @@
 
 ## Docente Elki Segura Gonzales
 
-1.- [Clase 2 04/21/2023](#clase-2-04212023)
-1.- [Clase 3 04/28/2023](#clase-3-04282023)
+1.- [Clase 2 04/21/2023](#clase-2-04212023)  
+1.- [Clase 3 04/28/2023](#clase-3-04282023)  
 
 ## Clase 2 04/21/2023
 
