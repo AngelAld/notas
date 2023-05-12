@@ -200,4 +200,11 @@ poderes facticos influyen en el gobierno, la derecha ha logrado imponer sus inte
 
 ### Familia 
   * El matrimonio es la base donde se construye la familia, el matrimonio puede ser civil o religioso  
-  *  
+  *
+#### Matrimonio Católico 
+  Requisitos:
+    * Ser varon y mujer  
+    * Ser mayor de edad  
+    * Estar bautizado, primera comunión y confirmación  
+    * Estar sano psicologicamente  
+    * Sanas sexualmente  (no impotencia sexual irreversible o frigidez sexual irreversible)
