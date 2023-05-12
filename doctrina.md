@@ -2,9 +2,9 @@
 
 ## Docente Elki Segura Gonzales
 
-1.- [Clase 2 04/21/2023](#clase-2-04212023)  
-2.- [Clase 3 04/28/2023](#clase-3-04282023)  
-3.- [Clase 4 05/12/2023](#clase-4-05122023)  
+1.[Clase 2 04/21/2023](#clase-2-04212023)  
+2.[Clase 3 04/28/2023](#clase-3-04282023)  
+3.[Clase 4 05/12/2023](#clase-4-05122023)  
 
 
 
@@ -180,7 +180,7 @@ poderes facticos influyen en el gobierno, la derecha ha logrado imponer sus inte
 ## Clase 4 05/12/2023
 
 
-**Video de la familia** 
+### Video de la familia 
 * Habla de la familia divina
   * Se relata como una familia normal
 * Perspectiva de la Iglesia
@@ -197,3 +197,7 @@ poderes facticos influyen en el gobierno, la derecha ha logrado imponer sus inte
   * en la familia se construyen los ciudadanos para la sociedad
   * se aprende el idioma, historia, tradiciones, cultura, etc
   * se aprende valores, moral
+
+### Familia 
+  * El matrimonio es la base donde se construye la familia, el matrimonio puede ser civil o religioso  
+  *  
