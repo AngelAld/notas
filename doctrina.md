@@ -2,9 +2,9 @@
 
 ## Docente Elki Segura Gonzales
 
-1.[Clase 2 04/21/2023](#clase-2-04212023)  
-2.[Clase 3 04/28/2023](#clase-3-04282023)  
-3.[Clase 4 05/12/2023](#clase-4-05122023)  
+1. [Clase 2 04/21/2023](#clase-2-04212023)  
+2. [Clase 3 04/28/2023](#clase-3-04282023)  
+3. [Clase 4 05/12/2023](#clase-4-05122023)  
 
 
 
@@ -65,7 +65,8 @@ Sustancia individual de naturaleza racional.
 
 ```html
 El ser humano tiene aspectos que ya están determinados, el sexo. 
-Sin embargo, también tiene aspectos que no están determinados, la carrera, la pareja. 
+Sin embargo, también tiene aspectos que no están determinados, 
+la carrera, la pareja. 
 La libertad nos determina
 ```
 
@@ -208,3 +209,7 @@ poderes facticos influyen en el gobierno, la derecha ha logrado imponer sus inte
     * Estar bautizado, primera comunión y confirmación  
     * Estar sano psicologicamente  
     * Sanas sexualmente  (no impotencia sexual irreversible o frigidez sexual irreversible)
+    * Ser soltero(a)  o viudo(a)  
+    * 4 testigos
+      * 2 ceremonia de matrimonio
+      * 2 solteria  
