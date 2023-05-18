@@ -1,16 +1,35 @@
+# REDES  
 
+## PROTOCOLOS DE CONVERGENCIA LENTA  
 
+### RIP  
 
+Actualización cada 30 segundos  
 
+### IGRP  
 
-Calculo cantidad de subredes
+actualización por eventos  
 
+### METRICA
 
+Protocolo de enrutamiento para determinar que rutas son menores  
 
+RIP usa numero de saltos  
 
-2**n 
+IGRP usa ancho de banda, rendimiento  
 
+* Balanceo de carga
 
-Donde n es la cantidad de bits prestados a la porción del host
+### CONVERGENCIA
 
+C  
+C  
+S  
+S  
+R  
 
+### DISTANCIA ADMINISTRATIVA DE UNA RUTA  
+
+La distancia administrativa es la preferencia 
+
+valor numerico que especifica la preferencia de la ruta  
